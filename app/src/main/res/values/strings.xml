@@ -21,7 +21,7 @@
     <string name="logo">logo</string>
     <string name="facebook_register">facebook_register</string>
     <string name="google_register">google_register</string>
-    <string name="twiter_register">twiter_register</string>
+    <string name="twitter_register">twitter_register</string>
     <string name="don_t_have_an_account">Don\'t have an account?</string>
     <string name="sign_up">Sign up</string>
     <string name="login_with_account">Login with Account</string>
